@@ -1,0 +1,287 @@
+.bg-button{
+    background-color: #433434;
+    color: white;
+    height: 30px;
+    width: 100px;
+    left: 1159px;
+    top: 27px;
+    border-radius: 5px;
+    border: none !important;
+
+}
+
+.colornav{
+    background-color: #FFC700;
+}
+
+.bg-hero{
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 65px;
+    letter-spacing: 0em;
+    display: flex;
+    
+}
+
+.hero-color{
+    background-color: #FFC700;
+
+}
+
+.lorem{
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: black;
+    height: 76px;
+    width: 274px;
+    left: 413px;
+    top: 348px;
+    border-radius: nullpx;
+    margin-top: 22px;
+    font-size: larger;
+}
+
+.garis{
+    height: 3px;
+width: 200px;
+left: 237px;
+top: 357px;
+border-radius: 0px;
+margin-top: 30px;
+}
+
+
+.height{
+    height: 93vh;
+    
+}
+
+.gambar{
+    width: 600px;
+    height: 600px;
+
+}
+.boxpop{
+    height: 95px;
+width: 350px;
+left: 197px;
+top: 689px;
+border-radius: 5px;
+
+}
+
+.login{
+    background-color: #433434;
+    color: white;
+    width: 350px;
+    border: none;
+}
+.modalinput{
+    width: 350px;
+    height: 50px;
+    border: none;
+}
+
+.modalinputt{
+    background: linear-gradient(0deg, #D2D2D2, #D2D2D2),
+    linear-gradient(0deg, rgba(210, 210, 210, 0.25), rgba(210, 210, 210, 0.25));
+
+}
+.modalbody{
+    margin-left: 60px;
+    color: #FFC700;
+
+}
+.tombol{
+    height: 30px;
+    width: 224px;
+    left: 207px;
+    top: 459px;
+    border-radius: 5px;
+    background-color: #FFC700;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.keranjang{
+    height: 32.260704040527344px;
+width: 35px;
+left: 0px;
+top: 1.369659423828125px;
+border-radius: 0px;
+color: #433434;
+
+}
+.profilekecil{
+    height: 80px;
+    width: 80px;
+    left: 1315px;
+    top: 12px;
+    border-radius: 0px;
+
+}
+.iconkanan{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+.tombolsave{
+    background: #433434;
+    border: none;
+    height: 40px;
+width: 260px;
+left: 1069px;
+top: 413px;
+border-radius: 5px;
+
+}
+
+.labeladd{
+    height: 50px;
+    width: 927px;
+    left: 172px;
+    top: 246px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.margintop{
+    margin-top: 200px;
+}
+.labeledit{
+    background-color: #433434;
+    color: white;
+    justify-content: center;
+
+}
+
+.tomboledit{
+    height: 40px;
+width: 180px;
+left: 196px;
+top: 481px;
+border-radius: 5px;
+background: #433434;
+color: white;
+font-weight: bolder;
+}
+
+.fontkecil{
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.fontgede{
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.finish{
+    background: linear-gradient(180deg, #00FF75 0%, #00FF85 100%);
+    border: none;
+    color: green;
+    font-weight: bolder;
+    
+}
+
+.cancle{
+    height: 30px;
+    width: 80px;
+    left: 11px;
+    top: 9px;
+    border-radius: 5px;
+    background: #FF0742;
+    color: white;
+    font-weight: bolder;
+    border: none;
+
+}
+.aprove{
+    height: 30px;
+    width: 80px;
+    left: 11px;
+    top: 9px;
+    border-radius: 5px;
+    background: #0ACF83;
+    color: white;
+    font-weight: bolder;
+    border: none;
+
+}
+
+.orderbutton{
+    height: 47px;
+    width: 222px;
+    left: 1015px;
+    top: 276px;
+    border-radius: 5px;
+    border: none;
+    background: #433434;
+    color: white;
+    font-weight: bolder;
+}
+
+.orderbar{
+    height: 47px;
+    width: 1100px;
+    left: 193px;
+    top: 276px;
+    border-radius: 5px;
+    font-weight: bolder;
+
+}
+.logout{
+    background-color: transparent !important;
+    border: none;
+}
+
+.margintopp{
+    margin-top: 80px;
+}
+
+.orderbut{
+    height: 40px;
+    width: 260px;
+    left: 980px;
+    top: 697px;
+    border-radius: 5px;
+    background: #433434;
+    color: white;
+    font-weight: bolder;
+
+}
+
+.mapslebar{
+    width: 1300px !important;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.detailfoto{
+    width: 286px;
+    height: 171.08px;
+}
+
+.orderbtn{
+    background-color: #433434;
+}
